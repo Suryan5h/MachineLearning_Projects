@@ -1,2 +1,3 @@
 # MachineLearning
-# Learning machine learning models, EDA, and other cool stuff ! :D
+Learning machine learning models, exploratory data analysis, visualization using seaborn,matplotlib etc... ! :D
+Loving it!
