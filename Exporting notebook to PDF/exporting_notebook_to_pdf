@@ -1,0 +1,15 @@
+Open Anaconda Prompt (Administrator)
+
+Install nbConvert
+  > pip install nbConvert[webPDF]
+
+Install pandoc
+  > conda install -c conda-forge pandoc
+  
+Install pyppeteer
+  > puppeteer-install
+  
+Open your notebook -> File -> Download as -> PDF via Html (.pdf)
+
+Voila!! Your pdf will be downloaded.
+Found this solution myself as I was facing issues at every step trying to download my notebook as pdf.
