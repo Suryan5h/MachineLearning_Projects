@@ -1,1 +1,58 @@
 Swiss Re Machine Learning Contest for predicting Accident Risk Index for particular postcodes.
+The provided dataset contains the following files: 
+
+# Train: 4,84,042 rows x 27 columns
+# Test: 1,15,958 rows x 27 columns
+train.csv & test.csv:
+
+'Accident_ID',
+'Police_Force',
+'Number_of_Vehicles',
+'Number_of_Casualties',
+'Date',
+'Day_of_Week',
+'Time',
+‘Local_Authority_(District)',
+'Local_Authority_(Highway)',
+'1st_Road_Class',
+'1st_Road_Number',
+'Road_Type',
+'Speed_limit',
+'2nd_Road_Class',
+'2nd_Road_Number',
+'Pedestrian_Crossing-Human_Control',
+'Pedestrian_Crossing-Physical_Facilities',
+'Light_Conditions',
+‘'Weather_Conditions',
+'Road_Surface_Conditions',
+'Special_Conditions_at_Site',
+'Carriageway_Hazards',
+'Urban_or_Rural_Area',
+'Did_Police_Officer_Attend_Scene_of_Accident',
+'state',
+'postcode',
+'country'
+# Population: 8,035 rows x 10 columns
+population.csv:
+
+​​'postcode',
+'Rural Urban',
+'Variable: All usual residents; measures: Value',
+'Variable: Males; measures: Value',
+'Variable: Females; measures: Value',
+‘Variable: Lives in a household; measures: Value',
+‘Variable: Lives in a communal establishment; measures: Value',
+'Variable: Schoolchild or full-time student aged 4 and over at their non term-time address; measures: Value',
+'Variable: Area (Hectares); measures: Value',
+'Variable: Density (number of persons per hectare); measures: Value'
+# Road Network: 91,566 rows x 8 columns
+roads_network.csv:
+
+'WKT',
+'roadClassi',
+‘roadFuncti',
+'formOfWay',
+'length',
+'primaryRou',
+'distance to the nearest point on rd',
+'postcode’
