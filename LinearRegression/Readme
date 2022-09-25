@@ -1,3 +1,4 @@
 1. LinearRegression using Numpy
 2. Simple linear regression using sklearn
 3. Multiple linear regression using sklearn
+4. Linear Regression model using statsmodel and studying about stats summary (R-square metrics, adj. r-squared, p-value, f-statistics)
