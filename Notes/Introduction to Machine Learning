@@ -1,0 +1,14 @@
+What is linear regression?
+A linear regression model explains a relationship between a dependent variable and one or more independent variables using a straight line.
+The independent variables are also known as predictor variables and the dependent variables are also known as outcome variables. It is widely used for prediction and forecasting.
+
+What is Linearity?
+Linearity is a property between a pair of variables, which determines whether their relationship can be represented as a line y=m*x+c where m is the slope and c is the intercept of the straight line.
+It also exists between an output variable and a set of independent variables {x1,x2,x3,...,xn}
+y = m1x1 + m2x2 + m3x3 + ... + mnxn
+
+Benefits of Linear Model:
+1. Linerity is easy to interpret
+2. Linear mdoels are easy to train and use.
+3. They are computationally efficient.
+4. They are less accurate, but generalize the whole data much better.
